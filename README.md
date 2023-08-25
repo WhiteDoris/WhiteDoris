@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python
 - 📫 How to reach me 
 Blog ：https://www.yuque.com/youngdoris
-- 🏖 Other info:
+- 🏖 Other info
 Adders : https://whitedoris.github.io/
 
 <!---
