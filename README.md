@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WhiteDoris
-- 👀 I’m interested in marathon、Healthy diet and life
+- 👀 I’m interested in marathon、Healthy diet 、like take photoes  with  life
 - 🌱 I’m currently learning python
 - 📫 How to reach me 
 Blog ：https://www.yuque.com/youngdoris
