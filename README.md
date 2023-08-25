@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning python
 - 📫 How to reach me 
 Blog ：https://www.yuque.com/youngdoris
+other info: https://whitedoris.github.io/
 
 <!---
 WhiteDoris/WhiteDoris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
